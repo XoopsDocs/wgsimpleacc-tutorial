@@ -1,27 +1,27 @@
-# Optionen Upload
+# Upload options
 
-## Maximale Dateigröße
+## Maximum file size
 
-Bitte die für den Upload von Dateien maximal zulässige Dateigröße definieren
+Please define the maximum permissible file size for uploading files
 
-## Zulässige Dateierweiterungen
+## Allowed file extensions
 
-Bitte die für den Upload von Dateien zulässigen Dateierweiterungen definieren
+Please define the file extensions permitted for uploading files
 
-## Maximale Breite für große Bilder
+## Maximum width for large images
 
-Definieren Sie die maximale Breite, auf die die hochgeladenen Bilder automatisch verkleinert werden sollen (in pixel)
-0 bedeutet, dass Bilder die Originalgröße behalten.
+Define the maximum width to which the uploaded images should be automatically reduced (in pixels)
+0 means that images keep their original size.
 
-Wenn ein Bild kleiner ist als die angegebenen Maximalwerte, so wird das Bild nicht vergrößert, sondern es wird in Originalgröße abgespeichert
+If an image is smaller than the specified maximum values, the image is not enlarged, but is saved in its original size
 
-## Maximale Höhe für große Bilder
+## Maximum height for large images
 
-Definieren Sie die maximale Höhe, auf die die hochgeladenen Bilder automatisch verkleinert werden sollen (in pixel)
-0 bedeutet, dass Bilder die Originalgröße behalten.
+Define the maximum height to which the uploaded images should be automatically reduced (in pixels)
+0 means that images keep their original size.
 
-Wenn ein Bild kleiner ist als die angegebenen Maximalwerte, so wird das Bild nicht vergrößert, sondern es wird in Originalgröße abgespeichert
+If an image is smaller than the specified maximum values, the image is not enlarged, but is saved in its original size
 
-## Upload-App verwenden
+## Use the upload app
 
-Wenn Sie eine App zum Hochladen von Dateien (z.B. Project Camera) verwenden wollen, dann wählen Sie 'Ja'
+If you want to use an app to upload files (e.g. Project Camera), then select 'Yes'

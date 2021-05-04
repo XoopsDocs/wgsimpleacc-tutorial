@@ -9,4 +9,4 @@ On the list of files you see deleted files.
 ## 2. Delete file
 
 ![Important](../../.gitbook/assets/en_important.png)
-You can delete files here, but pay attention, historicization will be incomplete.
+You can delete files here, but pay attention, because transaction history log will be incomplete.

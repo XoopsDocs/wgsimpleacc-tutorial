@@ -16,15 +16,15 @@ Depending on your [permissions](../administration-menu/permissions.md) you will 
 
 * approve transaction
 * show details
-* add/edit transaction (see also 3. historicization)
-* delete transaction (see also 3. historicization)
+* add/edit transaction (see also 3. Transaction History)
+* delete transaction (see also 3. Transaction Historyn)
 * output
 
 ### 2.1. Approve transaction
 
 If a user without permission for approving a transaction is sending a new transaction, this transaction will get status "Submitted" and another user with the right to approve has additionally to approve this transactions.
 
-Transactions waiting for approval are marked with a hourglass.
+Transactions waiting for approval are marked with an hourglass.
 
 ![Approve transactions](../../.gitbook/assets/en_transactions_approve.png)
 
@@ -89,13 +89,13 @@ If you have the permission to approve then you can decide whether a transaction 
 
 ### 2.4. Delete transaction
 
-You can delete transactions, but see also 3. historicization.
+You can delete transactions, but see also 3. Transaction History.
 
-## 3. Historicization
+## 3. Transaction History
 
 If a transaction is covered by a balance you are not allowed anymore to edit or delete it. If it is not balanced you can delete the transaction.
 
-Additionally you can activate [Use transaction histories](../administration-menu/preferences.md), then your accounting will be tamper-proof
+Aditionally you can activate [Use transaction histories](../administration-menu/preferences.md), then your accounting will be tamper-proof
 
 Every change of a transaction will be stored in a history table.
 
