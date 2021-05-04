@@ -2,13 +2,13 @@
 
 ## wgSimpleAcc Tutorial
 
-![wgSimpleAcc](../.gitbook/assets/wgsimpleacc.jpg)
+![wgSimpleAcc](../.gitbook/assets/de_wgsimpleacc.jpg)
 
 ### Version: 1.22
 
 ### for XOOPS 2.5.11+
 
-### for PHP 7.3 + \(PHP 8 ready\)
+### for PHP 7.3 + (PHP 8 ready)
 
 ## User Manual
 
@@ -29,17 +29,17 @@ Dieses Modul unterstützt:
   * Währungen
 * Erstellung des Bilanzabschlusses mit wenigen Klicks
 * Upload von Dokumenten/Bildern
-* Umfassende Rechteverwaltung \(Bestätigen, Einsenden, Ansehen\)
+* Umfassende Rechteverwaltung (Bestätigen, Einsenden, Ansehen)
 * Erstellung eigener Ausgabevorlagen
 * Visualisierung mit Chartjs
 
 Alle Templates sind voll responsive.
 
-**Dieses Modul funktioniert nur in Kombination mit einem Bootstrap Theme \(aktuell bt3\) oder du must die Bootstrap-Dateien manuell einbinden.**
+**Dieses Modul funktioniert nur in Kombination mit einem Bootstrap Theme (aktuell bt3) oder du must die Bootstrap-Dateien manuell einbinden.**
 
-![Dashboard Benutzerseite](../.gitbook/assets/dashboard.png)
+![Dashboard Benutzerseite](../.gitbook/assets/de_dashboard.png)
 
-![Dashboard Adminseite](../.gitbook/assets/admin_dashboard.png)
+![Dashboard Adminseite](../.gitbook/assets/de_admin_dashboard.png)
 
 ## Lizenz:
 

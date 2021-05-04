@@ -1,10 +1,10 @@
-# Steuern
+# Steuerarten
 
 ## 1. Liste der Steuerarten
 
 In der Liste der Steuerarten findest du alle derzeit existierenden Steuerarten.
 
-![Liste der Steuerarten](../../.gitbook/assets/admin_taxes.png)
+![Liste der Steuerarten](../../.gitbook/assets/de_admin_taxes.png)
 
 Du kannst:
 
@@ -13,7 +13,7 @@ Du kannst:
 
 ## 2. Steuerarten hinzufügen/bearbeiten
 
-![Steuerarten hinzuf&#xFC;gen/bearbeiten](../../.gitbook/assets/admin_taxes_edit.png)
+![Steuerarten hinzufügen/bearbeiten](../../.gitbook/assets/de_admin_taxes_edit.png)
 
 ### 2.1. Name
 
@@ -33,5 +33,5 @@ Definiere, ob eine Steuerart als primäre verwendet werden soll. Die primäre St
 
 ## 3. Steuerarten löschen
 
-![Important](../../.gitbook/assets/important.png) Du kannst zwar Steuerarten löschen, aber **lösche keine Steuerarten die bereits für Transaktionen verwendet werden**. Wenn du Steuerarten nicht weiter verwenden möchtest dann **setze diese auf Offline**.
-
+![Important](../../.gitbook/assets/de_important.png)
+Du kannst zwar Steuerarten löschen, aber **lösche keine Steuerarten die bereits für Transaktionen verwendet werden**. Wenn du Steuerarten nicht weiter verwenden möchtest dann **setze diese auf Offline**.

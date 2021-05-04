@@ -2,22 +2,24 @@
 
 On the main page of wgSimpleAcc you get an overview about your transactions and assets.
 
-![Index page](../../.gitbook/assets/dashboard%20%282%29.png)
+![Index page](../../.gitbook/assets/en_dashboard.png)
 
-For changing the content of your dashboard please check [module preferences](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/english/administration-menu/preferences.md).
+For changing the content of your dashboard please check [module preferences](../administration-menu/preferences.md).
 
 ## Navigation tree
 
 Depending on your [permissions](../administration-menu/permissions.md) you will see all or limited number of nav items
 
-* [Dashboard](index-page.md)
-* [Transactions](transactions.md)
-* [Clients](clients.md)
-* [Allocations](allocations.md)
-* [Accounts](accounts.md)
-* [Assets](assets.md)
-* [Templates](templates.md)
-* [Balances](balances.md)
-* [Statistics](statistics.md)
-* [Outputs](outputs.md)
+* [Dashboard](../the-user-side/index-page.md)
+* [Transactions](../the-user-side/transactions.md)
+* [Clients](../the-user-side/clients.md)
+* [Allocations](../the-user-side/allocations.md)
+* [Accounts](../the-user-side/accounts.md)
+* [Assets](../the-user-side/assets.md)
+* [Templates](../the-user-side/templates.md)
+* [Balances](../the-user-side/balances.md)
+* [Statistics](../the-user-side/statistics.md)
+* [Outputs](../the-user-side/outputs.md)
+
+
 

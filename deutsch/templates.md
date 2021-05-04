@@ -11,12 +11,12 @@ wgSimpleAcc enthält folgende Templates
 * wgsimpleacc\_balances.tpl
 * wgsimpleacc\_balances\_pdf.tpl
 * wgsimpleacc\_breadcrumbs.tpl
-* wgsimpleacc\_chart\_accounts\_line.tpl
+* wgsimpleacc\_chart\_accounts_line.tpl
 * wgsimpleacc\_chart\_assets.tpl
-* wgsimpleacc\_chart\_assets\_line.tpl
-* wgsimpleacc\_chart\_assets\_pie.tpl
-* wgsimpleacc\_chart\_assets\_pietotal.tpl
-* wgsimpleacc\_chart\_balances\_line.tpl
+* wgsimpleacc\_chart\_assets_line.tpl
+* wgsimpleacc\_chart\_assets_pie.tpl
+* wgsimpleacc\_chart\_assets_pietotal.tpl
+* wgsimpleacc\_chart\_balances_line.tpl
 * wgsimpleacc\_chart\_transactions.tpl
 * wgsimpleacc\_chart\_transactions\_hbar.tpl
 * wgsimpleacc\_chart\_transactions\_inexpie.tpl
@@ -67,4 +67,3 @@ Keine
 * wgsimpleacc\_admin\_trahistories.tpl
 * wgsimpleacc\_admin\_transactions.tpl
 * wgsimpleacc\_admin\_tratemplates.tpl
-

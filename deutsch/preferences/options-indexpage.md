@@ -1,4 +1,4 @@
-# Options für Indexseite
+# Optionen Indexseite
 
 ## Index Kopfzeile
 
@@ -6,7 +6,7 @@ Diesen Text als Überschrift in der Indexseite anzeigen
 
 ## Index Balkendiagramm Transaktionen
 
-Zeige Balkendiagramm \(horizontal\) mit Beträgen für die Transaktionen der aktuellen Periode auf der Indexseite
+Zeige Balkendiagramm (horizontal) mit Beträgen für die Transaktionen der aktuellen Periode auf der Indexseite
 
 ## Index Tortendiagramm Vermögenswerte Zeitraum
 
@@ -23,4 +23,3 @@ Zeige Summen für die Transaktionen Eingang/Ausgaben der aktuellen Periode auf d
 ## Index Tortendiagramm Transaktionen Zeitraum
 
 Zeige Tortendiagramm mit Summen für die Transaktionen Eingang/Ausgaben der aktuellen Periode auf der Indexseite
-

@@ -4,7 +4,7 @@
 
 On the list of clients you see current existing clients.
 
-![List of clients](../../.gitbook/assets/clients%20%281%29.png)
+![List of clients](../../.gitbook/assets/en_clients.png)
 
 You can:
 
@@ -14,7 +14,7 @@ You can:
 
 ## 2. Add new/edit client
 
-![Creation of new client](../../.gitbook/assets/clients_edit%20%281%29.png)
+![Creation of new client](../../.gitbook/assets/en_clients_edit.png)
 
 ### 2.1. Name and address
 
@@ -29,10 +29,8 @@ You can define whether your client is creditor. If you add/edit a transaction fo
 You can define whether your client is deptor. If you add/edit a transaction for incomes only deptors will be available in the list of clients.
 
 ### 2.4. Online
-
 You can set an client online or offline. Only if an client is online then users will see it when adding/editing transactions.
 
 ## 3. Delete an client
 
 Deleting an client is only possible if **it is not used** for transactions.
-

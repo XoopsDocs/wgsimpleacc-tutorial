@@ -2,7 +2,7 @@
 
 Auf der Indexseite im Benutzerbereich erhalten Sie eine Übersicht über die Transaktionen und Vermögenswerte.
 
-![Benutzerseite](../../.gitbook/assets/dashboard%20%281%29.png)
+![Benutzerseite](../../.gitbook/assets/de_dashboard.png)
 
 Abhängig von den Berechtigungen des aktuellen Users haben Sie folgende Möglichkeiten
 

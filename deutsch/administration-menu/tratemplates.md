@@ -4,7 +4,7 @@
 
 In der Liste der Transaktionsvorlagen findest du alle derzeit existierenden Transaktionsvorlagen.
 
-![Liste der Transaktionsvorlagen](../../.gitbook/assets/admin_tratemplates.png)
+![Liste der Transaktionsvorlagen](../../.gitbook/assets/de_admin_tratemplates.png)
 
 Du kannst:
 
@@ -13,7 +13,6 @@ Du kannst:
 
 ## 2. Transaktionsvorlagen hinzufügen/bearbeiten
 
-![Transaktionsvorlagen hinzuf&#xFC;gen/bearbeiten](../../.gitbook/assets/templates_tra_1.png)
+![Transaktionsvorlagen hinzufügen/bearbeiten](../../.gitbook/assets/de_templates_tra_1.png)
 
 Für weitere Details über das Erstellen/bearbeiten von Transaktionsvorlagen siehe [Vorlagen](../the-user-side/templates.md).
-
