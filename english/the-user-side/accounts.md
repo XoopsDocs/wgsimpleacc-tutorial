@@ -4,7 +4,7 @@
 
 On the list of accounts you see current existing accounts.
 
-![List of accounts](../../.gitbook/assets/accounts%20%281%29.png)
+![List of accounts](../../.gitbook/assets/en_accounts.png)
 
 You can:
 
@@ -15,7 +15,7 @@ You can:
 
 ## 2. Add new/edit account
 
-![Creation of new account](../../.gitbook/assets/accounts_edit%20%281%29.png)
+![Creation of new account](../../.gitbook/assets/en_accounts_edit.png)
 
 ### 2.1. Parent account
 
@@ -35,7 +35,8 @@ You can define an additional description for your account.
 
 ### 2.4. Classification
 
-You can define, whether the account can be used for incomes, expenses or both. In the creation of transactions you will get, depending on this setting, only relevant accounts.
+You can define, whether the account can be used for incomes, expenses or both.
+In the creation of transactions you will get, depending on this setting, only relevant accounts.
 
 ### 2.5. Color
 
@@ -43,7 +44,8 @@ You can define a color for your account. This color will be used in lists and ch
 
 ### 2.6. Use in income/expenses calculation
 
-You can define whether an account should be used for income/expenses calculation. If a booking on the account should not influence your calculation \(e.g. bank garanties\) then set to "NO".
+You can define whether an account should be used for income/expenses calculation.
+If a booking on the account should not influence your calculation (e.g. bank garanties) then set to "NO".
 
 ### 2.7. Online
 
@@ -55,11 +57,10 @@ Deleting an account is only possible if **it is not used** for transactions.
 
 ## 4. Sort account
 
-When you move your mouse over an account the mouse point will change and you can \(re\)sort the accounts simply by drag&drop.
+When you move your mouse over an account the mouse point will change and you can (re)sort the accounts simply by drag&drop.
 
-![Sort accounts](../../.gitbook/assets/accounts_sort1%20%281%29.png)
+![Sort accounts](../../.gitbook/assets/en_accounts_sort1.png)
 
 You can sort or also add an account as a child of another account.
 
-![Sort accounts](../../.gitbook/assets/accounts_sort2%20%281%29.png)
-
+![Sort accounts](../../.gitbook/assets/en_accounts_sort2.png)

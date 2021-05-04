@@ -5,9 +5,8 @@ On the dashboard tab 'Permissions' you can manage the permissions for wgSimpleAc
 ## 1. Global permissions
 
 Global permissions will be applied in general.
-
-* Permissions global to approve \(only recommended for webmaster\)
-* Permissions global to submit \(only recommended for webmaster\)
+* Permissions global to approve (only recommended for webmaster)
+* Permissions global to submit (only recommended for webmaster)
 * Permissions global to view
 
 ## 2. Permissions for specific components
@@ -29,4 +28,5 @@ Global permissions will be applied in general.
 * Permissions to view output templates
 * Permissions to submit clients
 * Permissions to view clients
+
 

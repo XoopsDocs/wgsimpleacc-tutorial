@@ -4,7 +4,7 @@
 
 In der Liste der Klienten findest du alle derzeit existierenden Klienten.
 
-![Liste der Klienten](../../.gitbook/assets/clients.png)
+![Liste der Klienten](../../.gitbook/assets/de_clients.png)
 
 Du kannst:
 
@@ -13,8 +13,7 @@ Du kannst:
 * Klienten löschen
 
 ## 2. Klienten hinzufügen/bearbeiten
-
-![List of clients](../../.gitbook/assets/clients_edit.png)
+![List of clients](../../.gitbook/assets/de_clients_edit.png)
 
 ### 2.1. Name und Adresse
 
@@ -22,7 +21,7 @@ Bitte Name und Adresse des Klienten eingeben.
 
 ### 2.2. Kreditor
 
-Du kannst hier definieren ob ein Klient ein Kreditor \(Verkäufer\) ist. Wenn du Transaktionen für Ausgaben erfassen willst dann werden nur Kreditoren in der Liste der Klienten angezeigt.
+Du kannst hier definieren ob ein Klient ein Kreditor (Verkäufer) ist. Wenn du Transaktionen für Ausgaben erfassen willst dann werden nur Kreditoren in der Liste der Klienten angezeigt.
 
 ### 2.3. Debitor
 
@@ -35,4 +34,3 @@ Du kannst einen Klienten online oder offline setzen. Nur wenn ein Klient online 
 ## 3. Klienten löschen
 
 Das Löschen von Klienten ist nur möglich wenn es **noch nicht** für Transaktionen verwendet wurde.
-

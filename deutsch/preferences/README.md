@@ -2,7 +2,7 @@
 
 In den Moduleinstellungen können Sie zahlreichen Optionen für dieses Modul festlegen:
 
-![Moduleinstellungen](../../.gitbook/assets/admin_preferences.png)
+![Moduleinstellungen](../../.gitbook/assets/de_admin_preferences.png)
 
 ## Optionen im Detail
 
@@ -14,4 +14,3 @@ In den Moduleinstellungen können Sie zahlreichen Optionen für dieses Modul fes
 * [Optionen für Abschlüsse](options-balances.md)
 * [Optionen für Komponenten](options-components.md)
 * [Sonstige Optionen](options-misc.md)
-

@@ -4,7 +4,7 @@
 
 On the list of allocations you see current existing allocations.
 
-![List of allocations](../../.gitbook/assets/admin_allocations%20%281%29.png)
+![List of allocations](../../.gitbook/assets/en_admin_allocations.png)
 
 You can:
 
@@ -13,11 +13,11 @@ You can:
 
 ## 2. Add new/edit allocation
 
-![Creation of new allocation](../../.gitbook/assets/allocations_edit%20%281%29.png)
+![Creation of new allocation](../../.gitbook/assets/en_allocations_edit.png)
 
 For more details about add/edit allocation see [Allocations](../the-user-side/allocations.md)
 
 ## 3. Delete allocations
 
-![Important](../../.gitbook/assets/important%20%281%29.png) You can delete allocations, but **do not delete allocations which are in use by transactions**. If you no longer want to use an allocations then **set it offline**.
-
+![Important](../../.gitbook/assets/en_important.png)
+You can delete allocations, but **do not delete allocations which are in use by transactions**. If you no longer want to use an allocations then **set it offline**.
