@@ -6,7 +6,7 @@ In den Moduleinstellungen können Sie zahlreichen Optionen für dieses Modul fes
 
 ## Optionen im Detail
 
-* [General options](options-general.md)
+* [Allgemeine Optionen](options-general.md)
 * [Optionen für Upload](options-upload.md)
 * [Optionen für Anzeige](options-display.md)
 * [Optionen für Formate](options-formats.md)
