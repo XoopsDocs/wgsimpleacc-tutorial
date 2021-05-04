@@ -9,4 +9,4 @@ On the list of transactions you see modified/deleted transactions.
 ## 2. Delete transactions
 
 ![Important](../../.gitbook/assets/en_important.png)
-You can finally delete a transactions, but pay attention, historicization will not take place at admin side.
+You can finally delete a transactions, but pay attention, because Transaction History will not be updated at Admin side.

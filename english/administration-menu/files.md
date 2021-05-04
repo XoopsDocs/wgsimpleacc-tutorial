@@ -20,4 +20,4 @@ For more details about add/edit file see [Transactions](../the-user-side/transac
 ## 3. Delete file
 
 ![Important](../../.gitbook/assets/en_important.png)
-You can delete files here, but pay attention, historicization will not take place at admin side.
+You can delete files here, but pay attention, because transaction history log will not be complete at the Admin side.
