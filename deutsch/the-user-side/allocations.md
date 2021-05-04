@@ -4,7 +4,7 @@
 
 In der Liste der Zuordnungen findest du alle derzeit existierenden Zuordnungen.
 
-![Liste der Zuordnungen](../../.gitbook/assets/de/allocations.png)
+![Liste der Zuordnungen](../../.gitbook/assets/allocations.png)
 
 Du kannst:
 
@@ -15,7 +15,7 @@ Du kannst:
 
 ## 2. Zuordnungen hinzufügen/bearbeiten
 
-![Erstellen von Zuordnungen](../../.gitbook/assets/de/allocations_edit.png)
+![Erstellen von Zuordnungen](../../.gitbook/assets/allocations_edit.png)
 
 ### 2.1. Übergeordnete Zuordnungen
 
@@ -39,6 +39,7 @@ Das Löschen von Zuordnungen ist nur möglich wenn diese **noch nicht** für Tra
 
 ## 4. Zuordnungen sortieren
 
-Wenn du die Maus über die Zuordnung bewegt wird ändert sich der Mauszeiger und du kannst die Zuordnungen durch einfaches Drag&Drop (neu) sortieren.
+Wenn du die Maus über die Zuordnung bewegt wird ändert sich der Mauszeiger und du kannst die Zuordnungen durch einfaches Drag&Drop \(neu\) sortieren.
 
 Du kannst sowohl sortieren als auch die Zuordnung einem anderen als Unterzuordnung definieren.
+

@@ -1,6 +1,6 @@
 # About XOOPS CMS
 
-![XOOPS](../.gitbook/assets/de/logoxoops%20%281%29.jpg)
+![XOOPS](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/.gitbook/assets/de/logoxoops%20%281%29.jpg)
 
 ## About XOOPS CMS
 

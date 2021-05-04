@@ -6,8 +6,8 @@ Auf dem Registerblatt 'Berechtigungen' können Sie die Berechtigungen für wgSim
 
 Globale Berechtigungen werden allgemein angewendet.
 
-* Globale Berechtigungen zum Bestätigen (nur für Webmaster empfohlen)
-* Globale Berechtigungen zum Einsenden (nur für Webmaster empfohlen)
+* Globale Berechtigungen zum Bestätigen \(nur für Webmaster empfohlen\)
+* Globale Berechtigungen zum Einsenden \(nur für Webmaster empfohlen\)
 * Globale Berechtigungen zum Ansehen
 
 ## 2. Berechtigungen für spezifische Komponenten
@@ -29,3 +29,4 @@ Globale Berechtigungen werden allgemein angewendet.
 * Berechtigungen zum Ansehen der Ausgabevorlagen
 * Berechtigungen zum Erstellen von Klienten
 * Berechtigungen zum Ansehen der Klienten
+

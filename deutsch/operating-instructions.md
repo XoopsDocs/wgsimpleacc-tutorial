@@ -1,6 +1,6 @@
 # Benutzeranleitung
 
-Abhängig von den [Berechtigungen](../administration-menu/permissions.md) bietet dieses Modul folgenden Komponenten:
+Abhängig von den [Berechtigungen](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/administration-menu/permissions.md) bietet dieses Modul folgenden Komponenten:
 
 * [Dashboard](the-user-side/index-page.md)
 * [Transaktionen](the-user-side/transactions.md)

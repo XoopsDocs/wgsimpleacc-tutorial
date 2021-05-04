@@ -2,7 +2,7 @@
 
 On user side you get an overview about transactions and assets.
 
-![The User Side](../../.gitbook/assets/en/dashboard.png)
+![The User Side](../../.gitbook/assets/dashboard%20%282%29.png)
 
 Depending on the permissions of current user the user have following possibilities:
 
@@ -15,3 +15,4 @@ Depending on the permissions of current user the user have following possibiliti
 * [Balances](balances.md)
 * [Statistics](statistics.md)
 * [Outputs](outputs.md)
+

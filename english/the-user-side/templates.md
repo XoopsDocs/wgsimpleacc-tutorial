@@ -1,11 +1,11 @@
 # Templates
 
-In wgSimpleAcc you can create templates for 
+In wgSimpleAcc you can create templates for
 
 * adding/editing transactions
 * outputs
 
-![Templates](../../.gitbook/assets/en/templates.png)
+![Templates](../../.gitbook/assets/templates%20%281%29.png)
 
 ## 1. Transaction templates
 
@@ -13,11 +13,11 @@ If you have recurring transactions then you can create templates for them.
 
 You can select allocation, asset, client and so on. You can also define whether this template is only for incomes, expenses or both.
 
-![Transaction templates 1](../../.gitbook/assets/en/templates_tra_1.png)
+![Transaction templates 1](../../.gitbook/assets/templates_tra_1%20%281%29.png)
 
 When you create/edit a transaction then you will find your template name on the top of transactions form.
 
-![Transaction templates 2](../../.gitbook/assets/en/templates_tra_2.png)
+![Transaction templates 2](../../.gitbook/assets/templates_tra_2%20%282%29.png)
 
 By clicking on the name the transaction form will be prefilled with the values from your template.
 
@@ -25,11 +25,11 @@ By clicking on the name the transaction form will be prefilled with the values f
 
 You can create your own output templates, e.g. for invoice.
 
-![Output templates 1](../../.gitbook/assets/en/templates_out_1.png)
+![Output templates 1](../../.gitbook/assets/templates_out_1%20%281%29.png)
 
 The template will be selectable for the relevant transactions
 
-![Output templates 2](../../.gitbook/assets/en/templates_out_2.png)
+![Output templates 2](../../.gitbook/assets/templates_out_2%20%281%29.png)
 
 ### 2.1. Name
 
@@ -57,35 +57,38 @@ You can create a custom footer for your output file. Concerning smarty variables
 
 ### 2.5. Smarty variables
 
-This module uses the Xoops Smarty template engine to render the output.
-You can use various variables for transaction data, e.g. <{$amount}> will be replaced by the transaction amount
+This module uses the Xoops Smarty template engine to render the output. You can use various variables for transaction data, e.g. &lt;{$amount}&gt; will be replaced by the transaction amount
 
-Available smarty-vars for transactions are: 
-    
-    <{$sender}>: Default sender for output
-    <{$recipient}>: Recipient/Client
-    <{year}>: transaction registration year
-    <{nb}>: transaction registration year
-    <{$year_nb}>: Registration year/number of transaction (Format: YYYY/00000)
-    <{$desc}>: Description
-    <{$reference}>: Reference
-    <{$account}>: Account
-    <{$allocation}>: Allocation
-    <{$asset}>: Asset
-    <{$date}>: Transaction date
-    <{$amount}>: Amount
-    <{$status_text}>: Status
-    <{$datecreated}>: Date created
-    <{$submitter}>: Submitter
+Available smarty-vars for transactions are:
+
+```text
+<{$sender}>: Default sender for output
+<{$recipient}>: Recipient/Client
+<{year}>: transaction registration year
+<{nb}>: transaction registration year
+<{$year_nb}>: Registration year/number of transaction (Format: YYYY/00000)
+<{$desc}>: Description
+<{$reference}>: Reference
+<{$account}>: Account
+<{$allocation}>: Allocation
+<{$asset}>: Asset
+<{$date}>: Transaction date
+<{$amount}>: Amount
+<{$status_text}>: Status
+<{$datecreated}>: Date created
+<{$submitter}>: Submitter
+```
 
 Additionally there are general smarty-vars available:
 
-    <{$xoops_sitename}>: The website name
-    <{xoops_slogan}>: Slogan of website
-    <{$xoops_pagetitle}>: The page title
-    <{$xoops_url}>: The site main url (e.g. http://localhost/)
-    <{$output_date}>: Date output
-    <{$output_user}>: Current user name
+```text
+<{$xoops_sitename}>: The website name
+<{xoops_slogan}>: Slogan of website
+<{$xoops_pagetitle}>: The page title
+<{$xoops_url}>: The site main url (e.g. http://localhost/)
+<{$output_date}>: Date output
+<{$output_user}>: Current user name
+```
 
 ### 2.6. Allocations
 
@@ -98,3 +101,4 @@ You can define whether a template is available for all transactions or only for 
 ### 2.8. Online
 
 You can set a template online or offline, e.g. if you need it only for one month in a year. Only if a template is online then users will see it in the list of transactions.
+

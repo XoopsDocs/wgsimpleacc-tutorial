@@ -4,7 +4,7 @@
 
 On the list of currencies you see current existing currencies.
 
-![List of currencies](../../.gitbook/assets/en/admin_currencies.png)
+![List of currencies](../../.gitbook/assets/admin_currencies.png)
 
 You can:
 
@@ -13,7 +13,7 @@ You can:
 
 ## 2. Add new/edit currency
 
-![Creation of new currency](../../.gitbook/assets/en/admin_currencies_edit.png)
+![Creation of new currency](../../.gitbook/assets/admin_currencies_edit.png)
 
 ### 2.1. Symbol
 
@@ -37,5 +37,5 @@ You can set a currency online or offline. Only if an currency is online then use
 
 ## 3. Delete currencies
 
-![Important](../../.gitbook/assets/en/important.png)
-You can delete currencies, but **do not delete currencies which are in use by transactions**. If you no longer want to use a currencies then **set it offline**.
+![Important](../../.gitbook/assets/important%20%281%29.png) You can delete currencies, but **do not delete currencies which are in use by transactions**. If you no longer want to use a currencies then **set it offline**.
+

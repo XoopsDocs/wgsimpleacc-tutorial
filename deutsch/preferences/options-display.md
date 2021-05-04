@@ -1,4 +1,4 @@
-# Optionen für Anzeige
+# Options für Anzeige
 
 ## Admin Listenzeilen
 
@@ -23,3 +23,4 @@ Sie können das Copyright in der Modulansicht auf Benutzerseite entfernen, jedoc
 ## Schaltfläche Import Beispieldaten anzeigen?
 
 Falls Ja, dann wird die Schaltfläche "Importe Beispieldaten" im Adminbereich sichtbar. Diese Option ist nach der Installation standardmäßig aktiviert.
+

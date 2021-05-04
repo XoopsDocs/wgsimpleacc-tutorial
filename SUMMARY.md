@@ -29,7 +29,7 @@
     * [Options for index page](english/preferences/options-indexpage.md)
     * [Options for balances](english/preferences/options-balances.md)
     * [Options for optional components](english/preferences/options-components.md)
-    * [Options for display](english/preferences/options-display.md)
+    * [Options for display](english/preferences/options-display-1.md)
     * [Misc options](english/preferences/options-misc.md)
   * [Operating Instructions](english/operating-instructions.md)
   * [The User Side](english/the-user-side/README.md)
@@ -94,3 +94,4 @@
   * [Templates](deutsch/templates.md)
   * [Module Credits](deutsch/module-credits.md)
   * [About XOOPS CMS](deutsch/about-xoops-cms.md)
+

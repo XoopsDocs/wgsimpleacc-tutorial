@@ -1,6 +1,7 @@
 # Misc options
 
 ## Default sender for output
+
 Default sender which should be used for output templates
 
 ## Keywords
@@ -8,6 +9,7 @@ Default sender which should be used for output templates
 You can add keywords, which are added to the meta tags. Seperate the keywords by comma.
 
 ## Advertisement Code
+
 Insert here the advertisement code
 
 ## Maintained By
@@ -46,5 +48,4 @@ Select which notification events to which your users may subscribe. Following ev
   * Send notification when transaction deleted
   * Send notification when comment added
   * Send notification when comment submitted
-
 

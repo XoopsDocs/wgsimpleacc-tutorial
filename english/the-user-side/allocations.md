@@ -4,7 +4,7 @@
 
 On the list of allocations you see current existing allocations.
 
-![List of allocations](../../.gitbook/assets/en/allocations.png)
+![List of allocations](../../.gitbook/assets/allocations%20%281%29.png)
 
 You can:
 
@@ -15,7 +15,7 @@ You can:
 
 ## 2. Add new/edit allocation
 
-![Creation of new allocation](../../.gitbook/assets/en/allocations_edit.png)
+![Creation of new allocation](../../.gitbook/assets/allocations_edit%20%281%29.png)
 
 ### 2.1. Parent allocation
 
@@ -39,6 +39,7 @@ Deleting an allocation is only possible if **it is not used** for transactions.
 
 ## 4. Sort allocation
 
-When you move your mouse over an allocation the mouse point will change and you can (re)sort the allocations simply by drag&drop.
+When you move your mouse over an allocation the mouse point will change and you can \(re\)sort the allocations simply by drag&drop.
 
 You can sort or also add an allocation as a child of another allocation.
+

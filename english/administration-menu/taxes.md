@@ -4,7 +4,7 @@
 
 On the list of taxes you see current existing taxes.
 
-![List of taxes](../../.gitbook/assets/en/admin_taxes.png)
+![List of taxes](../../.gitbook/assets/admin_taxes%20%281%29.png)
 
 You can:
 
@@ -13,7 +13,7 @@ You can:
 
 ## 2. Add new/edit taxe
 
-![Creation of new tax](../../.gitbook/assets/en/admin_taxes_edit.png)
+![Creation of new tax](../../.gitbook/assets/admin_taxes_edit%20%281%29.png)
 
 ### 2.1. Name
 
@@ -33,6 +33,5 @@ Define whether this taxe should be your primary tax. The primary tax will be pre
 
 ## 3. Delete taxes
 
-![Important](../../.gitbook/assets/en/important.png)
-You can delete taxes, but **do not delete taxes which are in use by transactions**. If you no longer want to use a taxes then **set it offline**.
+![Important](../../.gitbook/assets/important%20%281%29.png) You can delete taxes, but **do not delete taxes which are in use by transactions**. If you no longer want to use a taxes then **set it offline**.
 

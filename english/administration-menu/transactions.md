@@ -4,7 +4,7 @@
 
 On the list of transactions you see current existing transactions.
 
-![List of transactions](../../.gitbook/assets/en/admin_transactions.png)
+![List of transactions](../../.gitbook/assets/admin_transactions%20%281%29.png)
 
 You can:
 
@@ -13,11 +13,11 @@ You can:
 
 ## 2. Add new/edit transaction
 
-![Creation of new transaction](../../.gitbook/assets/en/transactions_edit.png)
+![Creation of new transaction](../../.gitbook/assets/transactions_edit%20%281%29.png)
 
 For more details about add/edit transaction see [Transactions](../the-user-side/transactions.md).
 
 ## 3. Delete transactions
 
-![Important](../../.gitbook/assets/en/important.png)
-You can delete transactions, but **do not delete taxes which are part of a balance**.
+![Important](../../.gitbook/assets/important%20%281%29.png) You can delete transactions, but **do not delete taxes which are part of a balance**.
+

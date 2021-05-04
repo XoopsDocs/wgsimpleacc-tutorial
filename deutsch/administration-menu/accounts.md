@@ -4,7 +4,7 @@
 
 In der Liste der Konten findest du alle derzeit existierenden Konten.
 
-![Liste der Konten](../../.gitbook/assets/de/admin_accounts.png)
+![Liste der Konten](../../.gitbook/assets/admin_accounts.png)
 
 Du kannst:
 
@@ -13,11 +13,11 @@ Du kannst:
 
 ## 2. Konten hinzufügen/bearbeiten
 
-![Konten hinzufügen/bearbeiten](../../.gitbook/assets/de/accounts_edit.png)
+![Konten hinzuf&#xFC;gen/bearbeiten](../../.gitbook/assets/accounts_edit.png)
 
 Für weitere Details über das Erstellen/bearbeiten von Konten siehe [Konten](../the-user-side/accounts.md)
 
 ## 3. Konten löschen
 
-![Important](../../.gitbook/assets/de/important.png)
-Du kannst zwar Konten löschen, aber **lösche keine Konten die bereits für Transaktionen verwendet werden**. Wenn du Konten nicht weiter verwenden möchtest dann **setze diese auf Offline**.
+![Important](../../.gitbook/assets/important.png) Du kannst zwar Konten löschen, aber **lösche keine Konten die bereits für Transaktionen verwendet werden**. Wenn du Konten nicht weiter verwenden möchtest dann **setze diese auf Offline**.
+

@@ -1,6 +1,7 @@
 # Sonstige Optionen
 
 ## Standardabsender für Ausgabe
+
 Absender, der bei Ausgabevorlagen standardmäßig verwendet werden soll
 
 ## Schlüsselworter
@@ -37,9 +38,9 @@ Wählen Sie welche Art Benachrichtigungen die Mitglieder auswählen können.
   * Alle neuen Einträg
   * Alle auf Freigabe wartende Einträge
   * Alle Kommentare
-
 * Benachrichtigungen Transaktionen
   * Änderung Transaktion
   * Löschen Transaktionen
   * Kommentar hinzugefügt
   * Bookmark
+

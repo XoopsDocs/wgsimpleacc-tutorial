@@ -18,7 +18,7 @@ Im oberen Bereich befinden sich 7 Menüpunkte.
 
 On the dashboard you get a short overview about the functionalities and the content of the module.
 
-![dashboard1.png](../../.gitbook/assets/de/admin_dashboard.png)
+![dashboard1.png](../../.gitbook/assets/admin_dashboard.png)
 
 ## 3. Funktionalitäten für Administratoren:
 

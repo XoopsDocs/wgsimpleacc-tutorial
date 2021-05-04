@@ -4,7 +4,7 @@
 
 In der Liste der Dateien findest du alle derzeit existierenden Dateien.
 
-![Liste der Dateien](../../.gitbook/assets/de/admin_files.png)
+![Liste der Dateien](../../.gitbook/assets/admin_files.png)
 
 Du kannst:
 
@@ -13,11 +13,11 @@ Du kannst:
 
 ## 2. Dateien hinzufügen/bearbeiten
 
-![Dateien hinzufügen/bearbeiten](../../.gitbook/assets/de/admin_files_edit.png)
+![Dateien hinzuf&#xFC;gen/bearbeiten](../../.gitbook/assets/admin_files_edit.png)
 
 Für weitere Details über das Erstellen/Bearbeiten von Dateien siehe [Transaktionen](../the-user-side/transactions.md)
 
 ## 3. Dateien löschen
 
-![Important](../../.gitbook/assets/de/important.png)
-Du kannst zwar Dateien löschen, aber **es findet dann keine Historisierung statt**.
+![Important](../../.gitbook/assets/important.png) Du kannst zwar Dateien löschen, aber **es findet dann keine Historisierung statt**.
+

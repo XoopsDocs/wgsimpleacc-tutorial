@@ -4,7 +4,7 @@
 
 On the list of output templates you see current existing output templates.
 
-![List of output templates](../../.gitbook/assets/en/admin_outtemplates.png)
+![List of output templates](../../.gitbook/assets/admin_outtemplates%20%281%29.png)
 
 You can:
 
@@ -14,6 +14,7 @@ You can:
 
 ## 2. Add new/edit output template
 
-![Creation of new output template](../../.gitbook/assets/en/templates_out_1.png)
+![Creation of new output template](../../.gitbook/assets/templates_out_1%20%281%29.png)
 
 For more details about add/edit output template see [Output templates](../the-user-side/templates.md)
+

@@ -4,7 +4,7 @@
 
 In der Liste der Konten findest du alle derzeit existierenden Konten.
 
-![Liste der Konten](../../.gitbook/assets/de/accounts.png)
+![Liste der Konten](../../.gitbook/assets/accounts.png)
 
 Du kannst:
 
@@ -15,7 +15,7 @@ Du kannst:
 
 ## 2. Konten hinzufügen/bearbeiten
 
-![Erstellen von Konten](../../.gitbook/assets/de/accounts_edit.png)
+![Erstellen von Konten](../../.gitbook/assets/accounts_edit.png)
 
 ### 2.1. Übergeordnetes Konto
 
@@ -35,8 +35,7 @@ Du kannst eine zusätzliche Beschreibung definieren.
 
 ### 2.4. Klassifizierung
 
-Du kannst definieren ob das Konto für Einnahmen, Ausgaben oder beides verwendet werden soll.
-Bei der Erstellung von Transaktionen werden, abhängig von dieser Einstellung, nur relevante Konten angezeigt.
+Du kannst definieren ob das Konto für Einnahmen, Ausgaben oder beides verwendet werden soll. Bei der Erstellung von Transaktionen werden, abhängig von dieser Einstellung, nur relevante Konten angezeigt.
 
 ### 2.5. Farbe
 
@@ -44,8 +43,7 @@ Du kannst eine Farbe für das Konto definieren. Diese Farbe wird in den Listen u
 
 ### 2.6. Verwendung in Einnahmen-/Ausgabenrechnung
 
-Du kannst definieren ob das Konto für die Einnahmen-/Ausgabenrechnung verwendet wird.
-Wenn ein Konto deine Einnahmen-/Ausgabenrechnung nicht beeinflussen soll (z.B. bei Bankgarantien) dann setze auf "Nein".
+Du kannst definieren ob das Konto für die Einnahmen-/Ausgabenrechnung verwendet wird. Wenn ein Konto deine Einnahmen-/Ausgabenrechnung nicht beeinflussen soll \(z.B. bei Bankgarantien\) dann setze auf "Nein".
 
 ### 2.7. Online
 
@@ -57,10 +55,11 @@ Das Löschen von Konten ist nur möglich wenn es **noch nicht** für Transaktion
 
 ## 4. Konten sortieren
 
-Wenn du die Maus über das Konto bewegt wird ändert sich der Mauszeiger und du kannst die Konten durch einfaches Drag&Drop (neu) sortieren.
+Wenn du die Maus über das Konto bewegt wird ändert sich der Mauszeiger und du kannst die Konten durch einfaches Drag&Drop \(neu\) sortieren.
 
-![Sortieren von Konten](../../.gitbook/assets/de/accounts_sort1.png)
+![Sortieren von Konten](../../.gitbook/assets/accounts_sort1.png)
 
 Du kannst sowohl sortieren als auch das Konto einem anderen als Unterkonto definieren.
 
-![Sortieren von Konten](../../.gitbook/assets/de/accounts_sort2.png)
+![Sortieren von Konten](../../.gitbook/assets/accounts_sort2.png)
+

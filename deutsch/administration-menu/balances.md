@@ -4,7 +4,7 @@
 
 In der Liste der Abschlüsse findest du alle derzeit existierenden Abschlüsse.
 
-![Liste der Abschlüsse](../../.gitbook/assets/de/admin_balances.png)
+![Liste der Abschl&#xFC;sse](../../.gitbook/assets/admin_balances.png)
 
 Du kannst:
 
@@ -13,7 +13,7 @@ Du kannst:
 
 ## 2. Abschlüsse hinzufügen/bearbeiten
 
-![Abschlüsse hinzufügen/bearbeiten](../../.gitbook/assets/de/admin_balances_edit.png)
+![Abschl&#xFC;sse hinzuf&#xFC;gen/bearbeiten](../../.gitbook/assets/admin_balances_edit.png)
 
-![Achtung](../../.gitbook/assets/de/important.png)
-Du kannst Abschlüsse zwar hier bearbeiten, aber beachte, dass dann die Abschlüsse und die dahinterliegenden Transaktionen vielleicht nicht mehr zusammenpassen.
+![Achtung](../../.gitbook/assets/important.png) Du kannst Abschlüsse zwar hier bearbeiten, aber beachte, dass dann die Abschlüsse und die dahinterliegenden Transaktionen vielleicht nicht mehr zusammenpassen.
+

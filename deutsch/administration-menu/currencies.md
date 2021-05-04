@@ -4,7 +4,7 @@
 
 In der Liste der Währungen findest du alle derzeit existierenden Währungen.
 
-![Liste der Währungen](../../.gitbook/assets/de/admin_accounts.png)
+![Liste der W&#xE4;hrungen](../../.gitbook/assets/admin_accounts.png)
 
 Du kannst:
 
@@ -13,7 +13,7 @@ Du kannst:
 
 ## 2. Währungen hinzufügen/bearbeiten
 
-![Währungen hinzufügen/bearbeiten](../../.gitbook/assets/de/accounts_edit.png)
+![W&#xE4;hrungen hinzuf&#xFC;gen/bearbeiten](../../.gitbook/assets/accounts_edit.png)
 
 ### 2.1. Symbol
 
@@ -37,5 +37,5 @@ Du kannst Währungen online oder offline setzen. Nur wenn eine Währung online i
 
 ## 3. Währungen löschen
 
-![Important](../../.gitbook/assets/de/important.png)
-Du kannst zwar Währungen löschen, aber **lösche keine Währungen die bereits für Transaktionen verwendet werden**. Wenn du Währungen nicht weiter verwenden möchtest dann **setze diese auf Offline**.
+![Important](../../.gitbook/assets/important.png) Du kannst zwar Währungen löschen, aber **lösche keine Währungen die bereits für Transaktionen verwendet werden**. Wenn du Währungen nicht weiter verwenden möchtest dann **setze diese auf Offline**.
+

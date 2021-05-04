@@ -2,24 +2,22 @@
 
 Auf der Indexseite von wgSimpleAcc wird eine Übersicht über die Transaktionen und Vermögenswerte angezeigt.
 
-![Index page](../../.gitbook/assets/de/dashboard.png)
+![Index page](../../.gitbook/assets/dashboard.png)
 
-Wenn du den Inhalt des Dashboards ändern möchtest dann überprüfe die [Moduleinstellungen](../administration-menu/preferences.md).
+Wenn du den Inhalt des Dashboards ändern möchtest dann überprüfe die [Moduleinstellungen](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/deutsch/administration-menu/preferences.md).
 
 ## Navigationsmenü
 
 Abhängig von den [Berechtigungen](../administration-menu/permissions.md) werden dir alle oder nur bestimmte Menüpunkte angezeigt
 
-* [Dashboard](../the-user-side/index-page.md)
-* [Transaktionen](../the-user-side/transactions.md)
-* [Klienten](../the-user-side/clients.md)
-* [Zuordnungen](../the-user-side/allocations.md)
-* [Konten](../the-user-side/accounts.md)
-* [Vermögenswerte](../the-user-side/assets.md)
-* [Vorlagen](../the-user-side/templates.md)
-* [Abschlüsse](../the-user-side/balances.md)
-* [Statistiken](../the-user-side/statistics.md)
-* [Ausgabe](../the-user-side/outputs.md)
-
-
+* [Dashboard](index-page.md)
+* [Transaktionen](transactions.md)
+* [Klienten](clients.md)
+* [Zuordnungen](allocations.md)
+* [Konten](accounts.md)
+* [Vermögenswerte](assets.md)
+* [Vorlagen](templates.md)
+* [Abschlüsse](balances.md)
+* [Statistiken](statistics.md)
+* [Ausgabe](outputs.md)
 

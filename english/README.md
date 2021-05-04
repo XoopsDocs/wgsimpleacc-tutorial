@@ -2,13 +2,13 @@
 
 ## wgSimpleAcc Tutorial
 
-![wgSimpleAcc](../.gitbook/assets/en/wgsimpleacc.jpg)
+![](../.gitbook/assets/wgsimpleacc.jpg)
 
 ### Version: 1.22
 
 ### for XOOPS 2.5.11+
 
-### for PHP 7.3 + (PHP 8 ready)
+### for PHP 7.3 + \(PHP 8 ready\)
 
 ## User Manual
 
@@ -29,17 +29,17 @@ This module supports:
   * currencies
 * Creation of balance with a few clicks
 * Upload of documents/images
-* Detailed rights management (confirm, send, view)
+* Detailed rights management \(confirm, send, view\)
 * Creation of your own output templates
 * Visualization with Chartjs
 
 All used templates on user side are fully responsive.
 
-**This module works only in combination with a bootstrap theme (currently bt3) or you have to include bootstrap files manually to your theme.**
+**This module works only in combination with a bootstrap theme \(currently bt3\) or you have to include bootstrap files manually to your theme.**
 
-![Example of dashboard on user side](../.gitbook/assets/en/dashboard.png)
+![Example of dashboard on user side](../.gitbook/assets/dashboard%20%282%29.png)
 
-![Dashboard on admin side](../.gitbook/assets/en/admin_dashboard.png)
+![Dashboard on admin side](../.gitbook/assets/admin_dashboard%20%281%29.png)
 
 ## License:
 
@@ -50,6 +50,7 @@ All derivative works are to be attributed to XOOPS Project \(www.xoops.org\)
 
 This module is developed by Wedega Webdesign Gabor
 
-![Wedega Webdesign Gabor](../.gitbook/assets/en/wedega_logo.png)
+![Wedega Webdesign Gabor](../.gitbook/assets/wedega_logo.png)
 
 ## Tutorial Version: 1.0
+

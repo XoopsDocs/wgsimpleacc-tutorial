@@ -11,3 +11,4 @@ Bitte den zu verwendenden Editor für den User-Bereich wählen
 ## Maximale Zeichen Text
 
 Maximale Anzahl an Zeichen für die Anzeige von Texten in Listen im Admin-Bereich
+

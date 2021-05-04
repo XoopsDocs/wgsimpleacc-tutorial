@@ -4,11 +4,11 @@
 
 On the list of transactions you get the most important information about the last transactions.
 
-![List of transactions](../../.gitbook/assets/en/transactions_1.png)
+![List of transactions](../../.gitbook/assets/transactions_1%20%281%29.png)
 
 If you want you can show/hide a filter form for selecting specific transactions.
 
-![Filter for transactions](../../.gitbook/assets/en/transactions_2.png)
+![Filter for transactions](../../.gitbook/assets/transactions_2%20%281%29.png)
 
 ## 2. Actions
 
@@ -16,8 +16,8 @@ Depending on your [permissions](../administration-menu/permissions.md) you will 
 
 * approve transaction
 * show details
-* add/edit transaction (see also 3. historicization)
-* delete transaction (see also 3. historicization)
+* add/edit transaction \(see also 3. historicization\)
+* delete transaction \(see also 3. historicization\)
 * output
 
 ### 2.1. Approve transaction
@@ -26,25 +26,23 @@ If a user without permission for approving a transaction is sending a new transa
 
 Transactions waiting for approval are marked with a hourglass.
 
-![Approve transactions](../../.gitbook/assets/en/transactions_approve.png)
-
+![Approve transactions](../../.gitbook/assets/transactions_approve%20%281%29.png)
 
 ### 2.2. Show details
 
 On page details you can see all details for a transaction. Additionally you can download/open files, if there are attachments available for this transaction.
 
-![Details of transactions](../../.gitbook/assets/en/transactions_details.png)
+![Details of transactions](../../.gitbook/assets/transactions_details%20%281%29.png)
 
 ### 2.3. Add/edit transaction
 
 You can add transactions with several additional information to you accounting system.
 
-![Create a transaction](../../.gitbook/assets/en/transactions_edit.png)
+![Create a transaction](../../.gitbook/assets/transactions_edit%20%281%29.png)
 
 #### Template
 
-If you have created transaction templates you can select one of these templates and the form will be prefilled by data of template.
-![Transactions templates](../../.gitbook/assets/en/templates_tra_2.png)
+If you have created transaction templates you can select one of these templates and the form will be prefilled by data of template. ![Transactions templates](../../.gitbook/assets/templates_tra_2%20%282%29.png)
 
 #### Client
 
@@ -73,6 +71,7 @@ Please select an account to which this transaction should be linked.
 Please select an allocation to which this transaction should be linked.
 
 #### Class
+
 Please decide whether this transaction should be an expenses or an income.
 
 #### Amount
@@ -85,7 +84,7 @@ Please select an asset to which this transaction should be linked.
 
 #### Status
 
-If you have the permission to approve then you can decide whether a transaction should be approved or only submitted (e.g. unpaid invoice).
+If you have the permission to approve then you can decide whether a transaction should be approved or only submitted \(e.g. unpaid invoice\).
 
 ### 2.4. Delete transaction
 
@@ -95,35 +94,35 @@ You can delete transactions, but see also 3. historicization.
 
 If a transaction is covered by a balance you are not allowed anymore to edit or delete it. If it is not balanced you can delete the transaction.
 
-Additionally you can activate [Use transaction histories](../administration-menu/preferences.md), then your accounting will be tamper-proof
+Additionally you can activate [Use transaction histories](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/english/administration-menu/preferences.md), then your accounting will be tamper-proof
 
 Every change of a transaction will be stored in a history table.
 
 Deleted transactions will remain in the list of deleted transactions.
 
-![Transaction history 1](../../.gitbook/assets/en/transactions_history_1.png)
+![Transaction history 1](../../.gitbook/assets/transactions_history_1%20%281%29.png)
 
 If you have changed a transaction you can see it in the transaction details
 
-![Transaction history 2](../../.gitbook/assets/en/transactions_history_2.png)
+![Transaction history 2](../../.gitbook/assets/transactions_history_2%20%281%29.png)
 
 If you click on "Show details" you get the full history of this transaction
 
-![Transaction history 3](../../.gitbook/assets/en/transactions_history_3.png)
+![Transaction history 3](../../.gitbook/assets/transactions_history_3%20%281%29.png)
 
 ## 4. Files
 
-If you have activated [Use file system](../administration-menu/preferences.md) then you can attach files to transactions.
+If you have activated [Use file system](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/english/administration-menu/preferences.md) then you can attach files to transactions.
 
 In order to attach or delete a file click on the "+" symbol. If there are already files attached then you can see the number of files in the badge.
 
-![Transaction files](../../.gitbook/assets/en/files_1.png)
+![Transaction files](../../.gitbook/assets/files_1%20%281%29.png)
 
 ### 4.1. Overview files
 
 In the overview you see the list of all files for this transaction
 
-![Files overview](../../.gitbook/assets/en/files_2.png)
+![Files overview](../../.gitbook/assets/files_2%20%282%29.png)
 
 Following actions are possible:
 
@@ -134,15 +133,15 @@ Following actions are possible:
 
 ### 4.2. Files upload
 
-You can, depending on your settings in [preferences](../administration-menu/preferences.md), upload files in two ways.
+You can, depending on your settings in [preferences](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/english/administration-menu/preferences.md), upload files in two ways.
 
 First possibility is to upload via this form
 
-![File upload 1](../../.gitbook/assets/en/files_3.png)
+![File upload 1](../../.gitbook/assets/files_3%20%281%29.png)
 
-If you have activated [Use file upload app](../administration-menu/preferences.md) and you are using a file upload app (e.g. Project Camera) then
-you will find here the uploaded files of folder 'uploads/wgsimpleacc/temp/' and so can add this files to current transaction.
+If you have activated [Use file upload app](https://github.com/XoopsDocs/wgsimpleacc-tutorial/tree/c4416050e1ded94d09392e71848a199db2ed7eba/english/administration-menu/preferences.md) and you are using a file upload app \(e.g. Project Camera\) then you will find here the uploaded files of folder 'uploads/wgsimpleacc/temp/' and so can add this files to current transaction.
 
-![File upload 2](../../.gitbook/assets/en/files_4.png)
+![File upload 2](../../.gitbook/assets/files_4%20%281%29.png)
 
 For further details please see also [Upload of attachments with App](appupload.md).
+
